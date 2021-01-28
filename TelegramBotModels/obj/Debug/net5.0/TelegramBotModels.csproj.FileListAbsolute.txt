@@ -1,0 +1,12 @@
+/home/hucky/projects/WeatherBot/TelegramBotModels/bin/Debug/net5.0/TelegramBotModels.deps.json
+/home/hucky/projects/WeatherBot/TelegramBotModels/bin/Debug/net5.0/TelegramBotModels.dll
+/home/hucky/projects/WeatherBot/TelegramBotModels/bin/Debug/net5.0/ref/TelegramBotModels.dll
+/home/hucky/projects/WeatherBot/TelegramBotModels/bin/Debug/net5.0/TelegramBotModels.pdb
+/home/hucky/projects/WeatherBot/TelegramBotModels/obj/Debug/net5.0/TelegramBotModels.csprojAssemblyReference.cache
+/home/hucky/projects/WeatherBot/TelegramBotModels/obj/Debug/net5.0/TelegramBotModels.GeneratedMSBuildEditorConfig.editorconfig
+/home/hucky/projects/WeatherBot/TelegramBotModels/obj/Debug/net5.0/TelegramBotModels.AssemblyInfoInputs.cache
+/home/hucky/projects/WeatherBot/TelegramBotModels/obj/Debug/net5.0/TelegramBotModels.AssemblyInfo.cs
+/home/hucky/projects/WeatherBot/TelegramBotModels/obj/Debug/net5.0/TelegramBotModels.csproj.CoreCompileInputs.cache
+/home/hucky/projects/WeatherBot/TelegramBotModels/obj/Debug/net5.0/TelegramBotModels.dll
+/home/hucky/projects/WeatherBot/TelegramBotModels/obj/Debug/net5.0/ref/TelegramBotModels.dll
+/home/hucky/projects/WeatherBot/TelegramBotModels/obj/Debug/net5.0/TelegramBotModels.pdb
